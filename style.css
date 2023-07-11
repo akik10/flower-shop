@@ -1,0 +1,167 @@
+
+
+.tittle{
+
+    display: flex;
+    height: 410px;
+    width: 100%;
+    background-color: rgba(229, 84, 115, 0.10);
+    justify-content: center;
+    
+}
+
+.side{
+    margin left: 20%;
+}
+.head{
+    font-size: 30px;
+}
+.tittle .mainpic{
+    height: 400px;
+    margin-left: 40%;
+
+}
+.click{
+    margin-top: 5%;
+    font-size: small;
+    background-color: #E55473;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 10px;
+    
+    
+}
+.heading{
+    text-align: center;
+    
+}
+.flower{
+    display: flex;
+    margin-left: 150px;
+    
+    
+}
+.first{
+     
+    background: rgba(167, 33, 98, 0.15);
+    width: 220px;
+    height: 250px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+
+
+
+    border: ;
+    
+}
+.hi{
+    height: 220px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.second{
+    width: 220px;
+    height: 250px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    margin-left: 100px;
+    background: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+.second .hi{
+    height: 220px;
+
+    margin-top: 30px;
+    
+}
+
+.third{
+    width: 220px;
+    height: 250px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    margin-left: 100px;
+    background: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+
+
+
+}
+
+.tag{
+    
+    margin-top: px;
+    margin-left: 25px;
+    color: black;
+    
+}
+.class{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background: rgba(229, 84, 115, 0.05);
+    height: 300px;
+}
+.akik{
+    margin-top: 50px;
+}
+.extra{
+    text-align: center;
+
+}
+
+.sell{
+    display: flex;
+}
+.flow{
+    width: 220px;
+    height: 250px;
+    
+    border-radius: 20px;
+    margin-left: 80px;
+    
+    
+    
+}
+.end{
+    text-align: center;
+    background-image: url(Rectangle\ 9.png);
+    height: 300px;
+    margin-top: 100px;
+    padding: 40px;
+    
+}
+.submit{
+    width: 500px;
+    height: 40px;
+    border-color: #E55473;
+    margin-top: 0px;
+}
+.finish{
+    background-color: black;
+    height: 300px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+    padding: 40px;
+    
+}
+.small{
+    
+    font-size: small;
+    margin-top: 10px;
+    margin: auto;
+    
+  }
+    
+
+.smaller{
+    font-size: smaller;
+    color: rgba(255, 255, 255, 0.40);
+}
+
+
+
+
+
